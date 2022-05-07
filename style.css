@@ -25,7 +25,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 65px;
+    gap: 60px;
 }
 
 .headers h2, div.fs-2 {
