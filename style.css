@@ -5,6 +5,15 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Koulen', cursive;
+    color: white;
+}
+
+body {
+    background-color: #264653;
+}
+
+h1 {
+    margin-top: 25px;
 }
 
 .users {
@@ -33,5 +42,7 @@ img {
     cursor: pointer;
 }
 
-/* you made a .... rengi altina cizgi falan ekle 
- */
+#userChoice, #computerChoice {
+    color: #e76f51;
+    text-decoration: underline;
+}
