@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Koulen', cursive;
+}
+
+.users {
+    padding-top: 70px;
+    width: 100vw;
+}
+
+.choices {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 65px;
+}
+
+.user {
+    border: 1px solid red;
+}
+
+.headers h2, div.fs-2 {
+    visibility: hidden;
+}
+
+span.fs-2 {
+    position: relative;
+    bottom: 15px;
+}
+
+img {
+    width: 100px;
+    cursor: pointer;
+}
+
+/* you made a .... rengi altina cizgi falan ekle 
+ */
