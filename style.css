@@ -19,10 +19,6 @@
     gap: 65px;
 }
 
-.user {
-    border: 1px solid red;
-}
-
 .headers h2, div.fs-2 {
     visibility: hidden;
 }
